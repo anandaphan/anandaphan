@@ -25,4 +25,5 @@ Currently An integrated M.S/Ph.D student in Artificial Intelligence at Gwangju I
   
 ### My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anandaphan&show_icons=true&theme=dark" alt="anandaphan" />
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=anandaphan&show_icons=true&theme=dark" alt="anandaphan" />
