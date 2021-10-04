@@ -13,7 +13,7 @@ Currently An integrated M.S/Ph.D student in Artificial Intelligence at Gwangju I
 - 🌱 I’m currently learning about Evolutionary AI and Genetic Algorithm for Music Application
 - 👯 I’m looking to collaborate on any project in Music Information Retrieval Area
 - 💬 Ask me about anything, I am ready to help
-- 📫 Reach me by [email](mailto:hi@anandaphan.com), [website]((https://anandaphan.com/)) or simply on [LinkedIn](https://www.linkedin.com/in/ananda-phan-iman-9b293a13a/)
+- 📫 Reach me by [email](mailto:hi@anandaphan.com), [website](https://anandaphan.com/) or simply on [LinkedIn](https://www.linkedin.com/in/ananda-phan-iman-9b293a13a/)
 - 💼 any freelance work? do reach [my email](mailto:hi@anandaphan.com) :)
 - ⚡ Fun fact: Astronomy facts always interesting to me
 
